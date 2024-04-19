@@ -1,8 +1,55 @@
-# React + Vite
+# CoffeeInSeconds
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Landing page made with React and Vite.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Dependencies](#dependencies)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Contributors](#contributors)
+
+
+## Features
+
+- Animations
+- Mobile optimized
+- Javascript functionalities
+
+## Dependencies
+
+- React
+- React-dom
+
+## Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/shaurya35/OCTANET_APRIL
+cd OCTANET_APRIL
+cd LandingPage
+```
+
+2. Install the dependencies:
+
+```bash
+npm install
+```
+
+## Usage
+
+Run the Streamlit app to launch the web interface:
+
+```bash
+npm run dev
+```
+
+Access the app in your web browser at `http://localhost:5173`.
+
+## Contributors
+
+- Shaurya Jha ([LinkedIn](https://www.linkedin.com/in/shaurya--jha/))
+
+
