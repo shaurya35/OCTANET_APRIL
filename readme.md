@@ -1,7 +1,8 @@
 # Project Documentation
 
 Tasks given by OCTANET:
-- Landing Page 
+
+- Landing Page
 - Todo List
 
 ## Table of Contents
@@ -12,13 +13,13 @@ Tasks given by OCTANET:
 - [Usage](#usage)
 - [Contributors](#contributors)
 
-
 ## Note
+
 - The documentation for each project is in the project folder itself, kindly check each of them for proper implementations.
 
 ## StacksUsed
 
-- React 
+- React
 - Tailwind
 - React-dom
 
@@ -51,5 +52,3 @@ Access the app in your web browser at `http://localhost:5173`.
 ## Contributors
 
 - Shaurya Jha ([LinkedIn](https://www.linkedin.com/in/shaurya--jha/))
-
-
